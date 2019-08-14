@@ -22,7 +22,6 @@ public class SearchTest {
 
     /**
      * 线性查找
-     *
      */
     @Test
     public void testLineSearch() {
