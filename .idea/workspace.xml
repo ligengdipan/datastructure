@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="823b5b76-a0f3-4e3c-97a1-ffd8f1845303" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/linkedlist/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/linkedlist/LoopNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/java/serach/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/java/serach/SearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/java/linkedlist/NodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/java/linkedlist/NodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/linkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/linkedlist/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/java/linkedlist/NodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/java/linkedlist/NodeTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,13 +23,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/java/serach/SearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="265">
               <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/linkedlist/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/java/linkedlist/NodeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/linkedlist/LoopNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/linkedlist/DoubleNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,9 +115,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/java/stack/StackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/queue/Queue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/linkedlist/Node.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/java/linkedlist/NodeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/java/serach/SearchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/linkedlist/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/linkedlist/LoopNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/linkedlist/DoubleNode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/java/linkedlist/LoopNodeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/java/linkedlist/NodeTest.java" />
       </list>
     </option>
   </component>
@@ -87,13 +145,77 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
@@ -104,6 +226,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,6 +241,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.linkedlist" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -130,7 +258,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SearchTest.testBinarySearch">
+  <component name="RunManager" selected="JUnit.LoopNodeTest.TestLoopNode">
+    <configuration name="LoopNodeTest.TestLoopNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.java.linkedlist.LoopNodeTest" />
+      <option name="METHOD_NAME" value="TestLoopNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="datastructure" />
       <extension name="coverage">
@@ -178,22 +322,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTest.testLineSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.serach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java.serach" />
-      <option name="MAIN_CLASS_NAME" value="com.java.serach.SearchTest" />
-      <option name="METHOD_NAME" value="testLineSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StackTest.TestStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="datastructure" />
       <extension name="coverage">
@@ -212,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SearchTest.testBinarySearch" />
+        <item itemvalue="JUnit.LoopNodeTest.TestLoopNode" />
         <item itemvalue="JUnit.NodeTest.TestNode" />
+        <item itemvalue="JUnit.SearchTest.testBinarySearch" />
         <item itemvalue="JUnit.NodeTest" />
         <item itemvalue="JUnit.StackTest.TestStackTest" />
-        <item itemvalue="JUnit.SearchTest.testLineSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -259,39 +387,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchTest_testLineSearch - 2019.08.13 at 18h 16m 44s.xml">
-      <configuration name="SearchTest.testLineSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StackTest_TestStackTest - 2019.08.13 at 18h 28m 51s.xml">
-      <configuration name="StackTest.TestStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StackTest_TestStackTest - 2019.08.13 at 19h 08m 11s.xml">
-      <configuration name="StackTest.TestStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NodeTest_TestNode - 2019.08.13 at 23h 01m 11s.xml">
-      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NodeTest_TestNode - 2019.08.13 at 23h 02m 23s.xml">
-      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NodeTest_TestNode - 2019.08.13 at 23h 07m 08s.xml">
-      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NodeTest - 2019.08.13 at 23h 15m 31s.xml">
-      <configuration name="NodeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NodeTest_TestNode - 2019.08.13 at 23h 17m 34s.xml">
-      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NodeTest_TestNode - 2019.08.13 at 23h 19m 15s.xml">
       <configuration name="NodeTest.TestNode" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SearchTest_testBinarySearch - 2019.08.14 at 09h 43m 09s.xml">
       <configuration name="SearchTest.testBinarySearch" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NodeTest_TestNode - 2019.08.14 at 17h 22m 45s.xml">
+      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NodeTest_TestNode - 2019.08.14 at 17h 25m 55s.xml">
+      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NodeTest_TestNode - 2019.08.14 at 18h 13m 23s.xml">
+      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NodeTest_TestNode - 2019.08.14 at 18h 13m 49s.xml">
+      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoopNodeTest_TestLoopNode - 2019.08.14 at 18h 27m 34s.xml">
+      <configuration name="LoopNodeTest.TestLoopNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NodeTest_TestNode - 2019.08.14 at 18h 29m 55s.xml">
+      <configuration name="NodeTest.TestNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoopNodeTest_TestLoopNode - 2019.08.14 at 18h 30m 07s.xml">
+      <configuration name="LoopNodeTest.TestLoopNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoopNodeTest_TestLoopNode - 2019.08.14 at 18h 31m 46s.xml">
+      <configuration name="LoopNodeTest.TestLoopNode" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19445000" />
+    <option name="totallyTimeSpent" value="27880000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,15 +443,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3275862" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3291536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3291536" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.0846395" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -449,34 +577,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java/serach/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/java/linkedlist/Node.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/linkedlist/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        <state relative-caret-position="284">
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
           <folding>
             <element signature="e#136#137#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/linkedlist/LoopNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/linkedlist/DoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java/linkedlist/LoopNodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/java/linkedlist/NodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/java/serach/SearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="284">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
