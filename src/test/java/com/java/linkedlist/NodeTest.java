@@ -41,6 +41,37 @@ public class NodeTest {
 
     }
 
+    //斐波那契数列1 1 2 3 5 8 13
+    @Test
+    public void TestFBNQSL(){
+
+        System.out.println(fbnqsl(3));
+    }
+
+    public static  int  fbnqsl(int i){
+        if(i==1||i==2){
+            return i;
+        }else{
+          return  fbnqsl(i-1)+fbnqsl(i-2);
+        }
+    }
+
+
+    //汉诺塔问题
+    @Test
+    public void TestHNTWT(){
+
+
+    }
+
+    public static void hannuo(int n,char from,char in,char to){
+       if(n==1){
+
+       }
+
+    }
+
+
 
 
 }
