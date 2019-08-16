@@ -3,8 +3,6 @@ package com.java.sort;
 public class QuickSort {
     int [] arr=new int[]{11,3,5,1,29,9,6,7};
 
-
-
     public   void quickSort(int [] arr,int start,int end ){
         if(start<end){
         //把数组中第0个数字作为标准数
@@ -12,7 +10,7 @@ public class QuickSort {
         //记录需要排序的下标
         int low=start;
         int high=end;
-        //循环找比标准书大的数和比标准值小的数
+        //循环找比标准数大的数和比标准值小的数
         while(low<high){
             //右边的数字比标准数小
             while(low<high&&stard<=arr[high]){
