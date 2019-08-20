@@ -40,4 +40,36 @@ public class TestSort {
         System.out.println(Arrays.toString(arr));
     }
 
+    /**
+     * 归并排序
+     */
+    @Test
+    public void MergeSortTest(){
+        int [] arr=new int [] {99,5,3,7,9,23,11,133,0};
+        MergeSort ms=new MergeSort();
+        ms.mergeSort(arr,0,arr.length-1);
+        System.out.println(Arrays.toString(arr));
+    }
+
+
+    //基数排序
+    @Test
+    public void RadixSortTest(){
+        int [] arr=new int []{23,119,23,334,78,229,45,237,998,12};
+        RadixSort rs=new RadixSort();
+        rs.radixSort(arr);
+        System.out.println(Arrays.toString(arr));
+    }
+
+    /**
+     * 基于队列的基数排序
+     */
+    @Test
+    public void RadixQueueSortTest(){
+        int [] arr=new int []{23,119,23,334,78,229,45,237,998,12};
+        RadixQueueSort rqs=new RadixQueueSort();
+                rqs.radixSort(arr);
+        System.out.println(Arrays.toString(arr));
+    }
+
 }

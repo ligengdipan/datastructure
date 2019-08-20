@@ -23,18 +23,26 @@ public class Queue {
     }
 
     //出队
-    public void poll(){
+    public int poll(){
         //把数组总第0个元素取出
       int element=elements[0];
         //创建一个新数组
       int [] newArr=new int[elements.length-1];
 
-        for (int i = newArr.length; i <newArr.length ; i++) {
-          newArr[i]=elements[i];
+        for (int i = 0; i <newArr.length ; i++) {
+          newArr[i]=elements[i+1];
         }
         //替换数组
         elements=newArr;
+      return element;
+    }
 
+    /**
+     * 判断是否为空
+     * @return
+     */
+    public boolean isEmpty(){
+        return elements.length==0;
     }
 
 }
