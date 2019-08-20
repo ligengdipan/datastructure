@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab7b4053-96ca-43a3-98cf-9ff8a1469946" name="Default Changelist" comment="快速排序">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/sort/RadixQueueSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/sort/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/java/queue/TestQueue.java" afterDir="false" />
+    <list default="true" id="ab7b4053-96ca-43a3-98cf-9ff8a1469946" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/java/tree/TreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/queue/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/java/sort/TestSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/java/sort/TestSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/queue/Queue.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,33 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/java/linkedlist/NodeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/sort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/sort/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="52" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/java/sort/TestSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
@@ -55,6 +24,49 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/java/tree/TreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -142,6 +154,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/java/queue/TestQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/queue/Queue.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/java/sort/TestSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/java/tree/TreeTest.java" />
       </list>
     </option>
   </component>
@@ -219,43 +234,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
@@ -285,25 +264,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serach" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,7 +277,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566286122377" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566303162222" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -338,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestSort.RadixQueueSortTest">
+  <component name="RunManager" selected="JUnit.TreeTest.TestBinaryTree">
     <configuration name="TestQueue.queueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="datastructure" />
       <extension name="coverage">
@@ -403,17 +364,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSort.ShellSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TreeTest.TestBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.sort.*" />
+          <option name="PATTERN" value="com.java.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.java.sort.TestSort" />
-      <option name="METHOD_NAME" value="ShellSortTest" />
+      <option name="PACKAGE_NAME" value="com.java.tree" />
+      <option name="MAIN_CLASS_NAME" value="com.java.tree.TreeTest" />
+      <option name="METHOD_NAME" value="TestBinaryTree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -421,11 +382,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TreeTest.TestBinaryTree" />
         <item itemvalue="JUnit.TestSort.RadixQueueSortTest" />
         <item itemvalue="JUnit.TestQueue.queueTest" />
         <item itemvalue="JUnit.TestSort.RadixSortTest" />
         <item itemvalue="JUnit.TestSort.MergeSortTest" />
-        <item itemvalue="JUnit.TestSort.ShellSortTest" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +402,7 @@
       <updated>1565924273895</updated>
       <workItem from="1565924281348" duration="9129000" />
       <workItem from="1565946557377" duration="3060000" />
-      <workItem from="1566199800529" duration="14458000" />
+      <workItem from="1566199800529" duration="22814000" />
     </task>
     <task id="LOCAL-00001" summary="快速排序">
       <created>1565927243053</created>
@@ -450,46 +411,54 @@
       <option name="project" value="LOCAL" />
       <updated>1565927243053</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基数排序/队列基数排序">
+      <created>1566286685800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566286685801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSort_RadixSortTest - 2019.08.20 at 11h 02m 32s.xml">
-      <configuration name="TestSort.RadixSortTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 16h 33m 00s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSort_RadixSortTest - 2019.08.20 at 11h 03m 46s.xml">
-      <configuration name="TestSort.RadixSortTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 16h 36m 41s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSort_RadixQueueSortTest - 2019.08.20 at 11h 37m 38s.xml">
-      <configuration name="TestSort.RadixQueueSortTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 16h 37m 08s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSort_RadixQueueSortTest - 2019.08.20 at 11h 42m 42s.xml">
-      <configuration name="TestSort.RadixQueueSortTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 16h 58m 46s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSort_RadixQueueSortTest - 2019.08.20 at 11h 50m 44s.xml">
-      <configuration name="TestSort.RadixQueueSortTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 17h 16m 43s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestQueue_queueTest - 2019.08.20 at 11h 59m 19s.xml">
-      <configuration name="TestQueue.queueTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 17h 18m 28s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestQueue_queueTest - 2019.08.20 at 12h 00m 46s.xml">
-      <configuration name="TestQueue.queueTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 17h 18m 51s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestQueue_queueTest - 2019.08.20 at 15h 02m 15s.xml">
-      <configuration name="TestQueue.queueTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 17h 40m 52s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestQueue_queueTest - 2019.08.20 at 15h 05m 07s.xml">
-      <configuration name="TestQueue.queueTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 17h 41m 22s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSort_RadixQueueSortTest - 2019.08.20 at 15h 05m 26s.xml">
-      <configuration name="TestSort.RadixQueueSortTest" configurationId="JUnit" />
+    <history-entry file="TreeTest_TestBinaryTree - 2019.08.20 at 17h 43m 21s.xml">
+      <configuration name="TreeTest.TestBinaryTree" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26647000" />
+    <option name="totallyTimeSpent" value="35003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -510,7 +479,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.23606557" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -527,7 +496,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="快速排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="快速排序" />
+    <MESSAGE value="基数排序/队列基数排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="基数排序/队列基数排序" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/java/tree/TreeNode.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/java/tree/BinaryTree.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/java/linkedlist/NodeTest.java">
@@ -572,13 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/sort/RadixSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="24" selection-start-line="24" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/java/arrary/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -611,6 +592,50 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/sort/RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="24" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java/tree/TreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
